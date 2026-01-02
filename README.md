@@ -11,7 +11,7 @@
 - 🚀 DevOps engineer focused on CI/CD, cloud-native delivery, and production reliability.
 - 🛠️ Building reusable GitHub Actions pipelines and hardened Docker images for web apps.
 - 🎯 Interests: GitOps, observability, secure supply chain, and platform automation.
-- 📍 Ruwanwella, Sri Lanka (open to remote) · English & Sinhala.
+
 
 ## Highlights
 - Automated full-stack deploys (Spring Boot + React) with multi-stage Docker builds and Nginx reverse proxy for production.
