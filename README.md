@@ -20,4 +20,4 @@ DevOps Engineer
 💻 Connect to my server via SSH:
 
 ```bash
-ssh boringco.my.to
+ssh dev.stt.to
