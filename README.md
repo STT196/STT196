@@ -20,4 +20,4 @@ DevOps Engineer
 💻 Connect to my server via SSH:
 
 ```bash
-ssh dev.stt.to
+ssh stt.my.to
