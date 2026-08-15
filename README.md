@@ -9,6 +9,9 @@ DevOps Engineer
 
 **Recent Work**
 <!--portfolio:start-->
+
+- [github-update-to-zip](https://github.com/STT196/github-update-to-zip)
+- [laravel-privilege-manager](https://github.com/STT196/laravel-privilege-manager) 
 - [Kode-Cloud-Challanges](https://github.com/STT196/Kode-Cloud-Challanges) — No description (⭐ 0, updated 2025-12-24)
 - [Wordpress-hosting-in-AWS-using-terrafrom](https://github.com/STT196/Wordpress-hosting-in-AWS-using-terrafrom) — No description (⭐ 1, updated 2025-11-15)
 - [dhanwanthari.lk](https://github.com/STT196/dhanwanthari.lk) — No description (⭐ 0, updated 2025-10-04)
